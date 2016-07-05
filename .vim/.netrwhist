@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/earmenda/.ssh'
+let g:netrw_dirhist_2='/Users/earmenda/Downloads/solarized/vim-colors-solarized/colors'
+let g:netrw_dirhist_3='/Users/earmenda/.config'
+let g:netrw_dirhist_4='/Users/earmenda/.kodi'
+let g:netrw_dirhist_5='/Users/earmenda/.vim'
+let g:netrw_dirhist_6='/Users/earmenda/Development/ISCISA/C benavides project/Proyecto/Desarrollo/Codigo Fuente/SysCurDpl/SysCurDpl'
